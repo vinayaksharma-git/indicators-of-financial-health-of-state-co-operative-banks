@@ -46,6 +46,6 @@ National Data Analytical Platform (NDAP)
 
 ## 6. Project Visuals 📀
 
-![dashboard]([Project-Indicators of Financial Health of State Co-operative Banks - 0001](https://github.com/vinayaksharma-git/indicators-of-financial-health-of-state-co-operative-banks/blob/main/Project-Indicators%20of%20Financial%20Health%20of%20State%20Co-operative%20Banks%20-%200001.jpg))
+![dashboard](https://github.com/vinayaksharma-git/indicators-of-financial-health-of-state-co-operative-banks/blob/main/Project-Indicators%20of%20Financial%20Health%20of%20State%20Co-operative%20Banks%20-%200001.jpg)
 
 🔗Demo Video: https://youtu.be/19xw9dIP7sM
